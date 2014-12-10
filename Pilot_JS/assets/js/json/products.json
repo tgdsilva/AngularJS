@@ -1,0 +1,54 @@
+[
+	{
+
+				"name" : "Body Butter",
+				"price" : 2,
+				"description" : "Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure ",
+				"carPunchase" : true,
+				"soldOut" : false,
+				"image" : 
+					[
+			         	{
+			         		"thumb" : "./assets/img/beauty.jpg",
+			         		"full" : "./assets/img/logo_tbs.jpg"
+			         	}
+			        ],
+			    "reviews" : 
+			    	[
+			              {
+			            	  "stars" : 5,
+			            	  "body" : "I love this product",
+			            	  "author" : "tgdsilva@gmail.com",
+			            	  "createdOn": 1397490980837
+			              }
+			        ]
+
+	},
+	
+	{
+
+				"name" : "Blue Musk",
+				"price" : 2,
+				"description" : "Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure ",
+				"carPunchase" : true,
+				"soldOut" : false,
+				"image" : 
+					[
+			         	{
+			         		"thumb" : "./assets/img/logo_tbs.jpg",
+			         		"full" : "./assets/img/beauty.jpg"
+			         	}
+			        ],
+			    "reviews" : 
+			    	[
+			              {
+			            	  "stars" : 5,
+			            	  "body" : "I can't explain how good this product is!!!",
+			            	  "author" : "tgdsilva@outlook.com",
+			            	  "createdOn": 1397490980837
+			              }
+			        ]
+
+	}
+		
+]

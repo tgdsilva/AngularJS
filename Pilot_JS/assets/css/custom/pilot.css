@@ -1,0 +1,25 @@
+.ng-invalid.ng-dirty
+{
+  border-color: red;
+}
+
+.ng-valid.ng-dirty
+{
+  border-color: green;
+}
+
+/*______________ Custom Elements _________________*/
+
+.pl_div-review{
+	
+	border-bottom: 1px dotted #000;
+	margin-bottom: 10px;
+}
+
+.pl_review-box
+{
+	background-color: #F4F4F4;
+	border: 1px dotted #000;
+	border-left: 0;
+	border-right: 0;
+}
